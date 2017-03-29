@@ -145,6 +145,24 @@ https://www.nowcoder.com/test/question/done?tid=7557256&qid=14629#summary
 ### double 精度最高 
 double 是双精度不要忘记了！！！
 
+### 子类型 
+子类型必须是子类继承了父类的所有可继承特性，也即公有继承，才能说是子类型，否则就只是单纯的子类
+
+### 匹配的问题
+比如浮点数不能 ==
+字符串不能 ===
+
 ### 
+Math.round 返回最大的值
+
+####
+以下程序是用辗转相除法来计算两个非负数之间的最大公约数：
+
+https://www.nowcoder.com/profile/6813930/test/7571928/918#summary
+
+#### 多线程解决C++ 问题
+
+
+
 
 
